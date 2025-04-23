@@ -80,7 +80,7 @@ php artisan storage:link
 ## Test Account
 
 You can use the following test account to log in:
-- Email: test@example.com
+- Email: test@outlook.com
 - Password: password
 
 ## Development
